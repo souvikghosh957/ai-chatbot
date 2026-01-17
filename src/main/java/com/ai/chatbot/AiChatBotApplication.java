@@ -9,6 +9,5 @@ public class AiChatBotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AiChatBotApplication.class, args);
 	}
-	aws_creds="yyw73621gstgajsu6tewtquwieoqqw1";
 
 }
